@@ -57,8 +57,10 @@ By completing this project, you will learn how to:
 ## Project Structure
 
 WEATHER-API-PROJECT/
-├── test_api.py
-├── weather_api.py
+
+├── test_api.py  
+├── weather_api.py 
+
 ├── requirements.txt
 
 ---
