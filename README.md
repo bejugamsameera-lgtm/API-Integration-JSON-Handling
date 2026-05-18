@@ -61,7 +61,6 @@ WEATHER-API-PROJECT/
 ├── test_api.py  
 ├── weather_api.py 
 
-├── requirements.txt
 
 ---
 
@@ -105,16 +104,13 @@ Open this folder in Visual Studio Code.
 Open the terminal in VS Code and run:
 
 ```bash
-py -m pip install requests
+pip install requests
+If needed:
+
+python -m pip install requests
 ```
-
-Create `requirements.txt`:
-
-```bash
-py -m pip freeze > requirements.txt
-```
-
 ---
+
 
 # Step 4: Create an OpenWeather API Key
 
@@ -149,6 +145,8 @@ API_KEY = "your_actual_api_key"
 ```
 
 ---
+# Step 7: Create `test_api.py`
+paste code here
 
 # Step 7: Run the Project
 
