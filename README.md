@@ -57,6 +57,7 @@ By completing this project, you will learn how to:
 ## Project Structure
 
 weather-api-project/
+
 └── weather_api.py
 
 
