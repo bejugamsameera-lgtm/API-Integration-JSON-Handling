@@ -56,10 +56,8 @@ By completing this project, you will learn how to:
 
 ## Project Structure
 
-WEATHER-API-PROJECT/
-
-├── test_api.py  
-├── weather_api.py 
+weather-api-project/
+└── weather_api.py
 
 
 ---
@@ -145,8 +143,6 @@ API_KEY = "your_actual_api_key"
 ```
 
 ---
-# Step 7: Create `test_api.py`
-paste code here
 
 # Step 7: Run the Project
 
