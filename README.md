@@ -36,11 +36,6 @@ By completing this project, you will learn how to:
 
 ---
 
-## Deliverables
-
-* Working Python script
-* Output screenshots with explanation
-* README documentation
 
 ---
 
